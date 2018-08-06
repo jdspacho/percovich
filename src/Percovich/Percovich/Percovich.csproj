@@ -77,6 +77,9 @@
     <AndroidResource Include="Resources\layout\nav_header_main.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
+    <AndroidResource Include="Resources\layout\registartion_activity.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>    
     <AndroidResource Include="Resources\values\colors.xml" />
     <AndroidResource Include="Resources\values\dimens.xml" />
     <AndroidResource Include="Resources\values\drawables.xml" />
