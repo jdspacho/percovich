@@ -2378,8 +2378,8 @@ namespace Percovich
 			// aapt resource value: 0x7f080037
 			public const int SYM = 2131230775;
 			
-			// aapt resource value: 0x7f0800a9
-			public const int action0 = 2131230889;
+			// aapt resource value: 0x7f0800c4
+			public const int action0 = 2131230916;
 			
 			// aapt resource value: 0x7f08007c
 			public const int action_bar = 2131230844;
@@ -2402,17 +2402,17 @@ namespace Percovich
 			// aapt resource value: 0x7f08005a
 			public const int action_bar_title = 2131230810;
 			
-			// aapt resource value: 0x7f0800a6
-			public const int action_container = 2131230886;
+			// aapt resource value: 0x7f0800c1
+			public const int action_container = 2131230913;
 			
 			// aapt resource value: 0x7f08007d
 			public const int action_context_bar = 2131230845;
 			
-			// aapt resource value: 0x7f0800ad
-			public const int action_divider = 2131230893;
+			// aapt resource value: 0x7f0800c8
+			public const int action_divider = 2131230920;
 			
-			// aapt resource value: 0x7f0800a7
-			public const int action_image = 2131230887;
+			// aapt resource value: 0x7f0800c2
+			public const int action_image = 2131230914;
 			
 			// aapt resource value: 0x7f080003
 			public const int action_menu_divider = 2131230723;
@@ -2429,14 +2429,14 @@ namespace Percovich
 			// aapt resource value: 0x7f08005c
 			public const int action_mode_close_button = 2131230812;
 			
-			// aapt resource value: 0x7f0800c2
-			public const int action_settings = 2131230914;
+			// aapt resource value: 0x7f0800dd
+			public const int action_settings = 2131230941;
 			
-			// aapt resource value: 0x7f0800a8
-			public const int action_text = 2131230888;
+			// aapt resource value: 0x7f0800c3
+			public const int action_text = 2131230915;
 			
-			// aapt resource value: 0x7f0800b6
-			public const int actions = 2131230902;
+			// aapt resource value: 0x7f0800d1
+			public const int actions = 2131230929;
 			
 			// aapt resource value: 0x7f08005d
 			public const int activity_chooser_view_content = 2131230813;
@@ -2468,14 +2468,32 @@ namespace Percovich
 			// aapt resource value: 0x7f08003d
 			public const int bottom = 2131230781;
 			
-			// aapt resource value: 0x7f0800a3
-			public const int button1 = 2131230883;
+			// aapt resource value: 0x7f080092
+			public const int btnCrear = 2131230866;
+			
+			// aapt resource value: 0x7f0800b6
+			public const int btnDateCita = 2131230902;
+			
+			// aapt resource value: 0x7f0800b9
+			public const int btnGuardarCita = 2131230905;
+			
+			// aapt resource value: 0x7f080091
+			public const int btnIngresar = 2131230865;
+			
+			// aapt resource value: 0x7f0800a5
+			public const int btnRegistrar = 2131230885;
+			
+			// aapt resource value: 0x7f0800b7
+			public const int btnTimeCita = 2131230903;
+			
+			// aapt resource value: 0x7f0800be
+			public const int button1 = 2131230910;
 			
 			// aapt resource value: 0x7f080063
 			public const int buttonPanel = 2131230819;
 			
-			// aapt resource value: 0x7f0800aa
-			public const int cancel_action = 2131230890;
+			// aapt resource value: 0x7f0800c5
+			public const int cancel_action = 2131230917;
 			
 			// aapt resource value: 0x7f080045
 			public const int center = 2131230789;
@@ -2489,8 +2507,8 @@ namespace Percovich
 			// aapt resource value: 0x7f080073
 			public const int checkbox = 2131230835;
 			
-			// aapt resource value: 0x7f0800b2
-			public const int chronometer = 2131230898;
+			// aapt resource value: 0x7f0800cd
+			public const int chronometer = 2131230925;
 			
 			// aapt resource value: 0x7f08004e
 			public const int clip_horizontal = 2131230798;
@@ -2498,17 +2516,20 @@ namespace Percovich
 			// aapt resource value: 0x7f08004f
 			public const int clip_vertical = 2131230799;
 			
+			// aapt resource value: 0x7f0800b8
+			public const int cmbEspecialidades = 2131230904;
+			
 			// aapt resource value: 0x7f080039
 			public const int collapseActionView = 2131230777;
 			
-			// aapt resource value: 0x7f080091
-			public const int container = 2131230865;
+			// aapt resource value: 0x7f0800aa
+			public const int container = 2131230890;
 			
 			// aapt resource value: 0x7f080066
 			public const int contentPanel = 2131230822;
 			
-			// aapt resource value: 0x7f080092
-			public const int coordinator = 2131230866;
+			// aapt resource value: 0x7f0800ab
+			public const int coordinator = 2131230891;
 			
 			// aapt resource value: 0x7f08006d
 			public const int custom = 2131230829;
@@ -2522,41 +2543,47 @@ namespace Percovich
 			// aapt resource value: 0x7f080060
 			public const int default_activity_button = 2131230816;
 			
-			// aapt resource value: 0x7f080094
-			public const int design_bottom_sheet = 2131230868;
+			// aapt resource value: 0x7f0800ad
+			public const int design_bottom_sheet = 2131230893;
 			
-			// aapt resource value: 0x7f08009b
-			public const int design_menu_item_action_area = 2131230875;
+			// aapt resource value: 0x7f0800b4
+			public const int design_menu_item_action_area = 2131230900;
 			
-			// aapt resource value: 0x7f08009a
-			public const int design_menu_item_action_area_stub = 2131230874;
+			// aapt resource value: 0x7f0800b3
+			public const int design_menu_item_action_area_stub = 2131230899;
 			
-			// aapt resource value: 0x7f080099
-			public const int design_menu_item_text = 2131230873;
+			// aapt resource value: 0x7f0800b2
+			public const int design_menu_item_text = 2131230898;
 			
-			// aapt resource value: 0x7f080098
-			public const int design_navigation_view = 2131230872;
+			// aapt resource value: 0x7f0800b1
+			public const int design_navigation_view = 2131230897;
 			
 			// aapt resource value: 0x7f080020
 			public const int disableHome = 2131230752;
 			
-			// aapt resource value: 0x7f08008b
-			public const int drawer_layout = 2131230859;
+			// aapt resource value: 0x7f0800a1
+			public const int dni_layout = 2131230881;
 			
-			// aapt resource value: 0x7f0800a0
-			public const int editText1 = 2131230880;
+			// aapt resource value: 0x7f080094
+			public const int drawer_layout = 2131230868;
 			
-			// aapt resource value: 0x7f0800a2
-			public const int editText2 = 2131230882;
+			// aapt resource value: 0x7f0800bb
+			public const int editText1 = 2131230907;
+			
+			// aapt resource value: 0x7f0800bd
+			public const int editText2 = 2131230909;
 			
 			// aapt resource value: 0x7f08007e
 			public const int edit_query = 2131230846;
 			
+			// aapt resource value: 0x7f08008d
+			public const int email_layout = 2131230861;
+			
 			// aapt resource value: 0x7f080030
 			public const int end = 2131230768;
 			
-			// aapt resource value: 0x7f0800b8
-			public const int end_padder = 2131230904;
+			// aapt resource value: 0x7f0800d3
+			public const int end_padder = 2131230931;
 			
 			// aapt resource value: 0x7f08003f
 			public const int enterAlways = 2131230783;
@@ -2573,8 +2600,8 @@ namespace Percovich
 			// aapt resource value: 0x7f080072
 			public const int expanded_menu = 2131230834;
 			
-			// aapt resource value: 0x7f08008e
-			public const int fab = 2131230862;
+			// aapt resource value: 0x7f0800a7
+			public const int fab = 2131230887;
 			
 			// aapt resource value: 0x7f080050
 			public const int fill = 2131230800;
@@ -2584,6 +2611,9 @@ namespace Percovich
 			
 			// aapt resource value: 0x7f080048
 			public const int fill_vertical = 2131230792;
+			
+			// aapt resource value: 0x7f08009d
+			public const int firstSurname_layout = 2131230877;
 			
 			// aapt resource value: 0x7f080054
 			public const int @fixed = 2131230804;
@@ -2603,8 +2633,8 @@ namespace Percovich
 			// aapt resource value: 0x7f080062
 			public const int icon = 2131230818;
 			
-			// aapt resource value: 0x7f0800b7
-			public const int icon_group = 2131230903;
+			// aapt resource value: 0x7f0800d2
+			public const int icon_group = 2131230930;
 			
 			// aapt resource value: 0x7f08003a
 			public const int ifRoom = 2131230778;
@@ -2612,11 +2642,11 @@ namespace Percovich
 			// aapt resource value: 0x7f08005f
 			public const int image = 2131230815;
 			
-			// aapt resource value: 0x7f0800a4
-			public const int imageView = 2131230884;
+			// aapt resource value: 0x7f0800bf
+			public const int imageView = 2131230911;
 			
-			// aapt resource value: 0x7f0800b3
-			public const int info = 2131230899;
+			// aapt resource value: 0x7f0800ce
+			public const int info = 2131230926;
 			
 			// aapt resource value: 0x7f080059
 			public const int italic = 2131230809;
@@ -2624,8 +2654,11 @@ namespace Percovich
 			// aapt resource value: 0x7f080000
 			public const int item_touch_helper_previous_elevation = 2131230720;
 			
-			// aapt resource value: 0x7f080090
-			public const int largeLabel = 2131230864;
+			// aapt resource value: 0x7f0800a9
+			public const int largeLabel = 2131230889;
+			
+			// aapt resource value: 0x7f080096
+			public const int layaut_register = 2131230870;
 			
 			// aapt resource value: 0x7f080049
 			public const int left = 2131230793;
@@ -2636,8 +2669,8 @@ namespace Percovich
 			// aapt resource value: 0x7f080018
 			public const int line3 = 2131230744;
 			
-			// aapt resource value: 0x7f08009d
-			public const int linearLayout1 = 2131230877;
+			// aapt resource value: 0x7f08008b
+			public const int linearLayout1 = 2131230859;
 			
 			// aapt resource value: 0x7f08001d
 			public const int listMode = 2131230749;
@@ -2645,14 +2678,14 @@ namespace Percovich
 			// aapt resource value: 0x7f080061
 			public const int list_item = 2131230817;
 			
-			// aapt resource value: 0x7f0800bb
-			public const int masked = 2131230907;
+			// aapt resource value: 0x7f0800d6
+			public const int masked = 2131230934;
 			
-			// aapt resource value: 0x7f0800ac
-			public const int media_actions = 2131230892;
+			// aapt resource value: 0x7f0800c7
+			public const int media_actions = 2131230919;
 			
-			// aapt resource value: 0x7f0800b9
-			public const int message = 2131230905;
+			// aapt resource value: 0x7f0800d4
+			public const int message = 2131230932;
 			
 			// aapt resource value: 0x7f080031
 			public const int middle = 2131230769;
@@ -2663,29 +2696,32 @@ namespace Percovich
 			// aapt resource value: 0x7f080028
 			public const int multiply = 2131230760;
 			
-			// aapt resource value: 0x7f0800bc
-			public const int nav_camera = 2131230908;
+			// aapt resource value: 0x7f08009b
+			public const int name_layout = 2131230875;
 			
-			// aapt resource value: 0x7f0800bd
-			public const int nav_gallery = 2131230909;
+			// aapt resource value: 0x7f0800d7
+			public const int nav_camera = 2131230935;
 			
-			// aapt resource value: 0x7f0800bf
-			public const int nav_manage = 2131230911;
+			// aapt resource value: 0x7f0800d8
+			public const int nav_gallery = 2131230936;
 			
-			// aapt resource value: 0x7f0800c1
-			public const int nav_send = 2131230913;
+			// aapt resource value: 0x7f0800da
+			public const int nav_manage = 2131230938;
 			
-			// aapt resource value: 0x7f0800c0
-			public const int nav_share = 2131230912;
+			// aapt resource value: 0x7f0800dc
+			public const int nav_send = 2131230940;
 			
-			// aapt resource value: 0x7f0800be
-			public const int nav_slideshow = 2131230910;
+			// aapt resource value: 0x7f0800db
+			public const int nav_share = 2131230939;
 			
-			// aapt resource value: 0x7f08008c
-			public const int nav_view = 2131230860;
+			// aapt resource value: 0x7f0800d9
+			public const int nav_slideshow = 2131230937;
 			
-			// aapt resource value: 0x7f080097
-			public const int navigation_header_container = 2131230871;
+			// aapt resource value: 0x7f080095
+			public const int nav_view = 2131230869;
+			
+			// aapt resource value: 0x7f0800b0
+			public const int navigation_header_container = 2131230896;
 			
 			// aapt resource value: 0x7f08003b
 			public const int never = 2131230779;
@@ -2696,14 +2732,14 @@ namespace Percovich
 			// aapt resource value: 0x7f08001e
 			public const int normal = 2131230750;
 			
-			// aapt resource value: 0x7f0800b5
-			public const int notification_background = 2131230901;
+			// aapt resource value: 0x7f0800d0
+			public const int notification_background = 2131230928;
 			
-			// aapt resource value: 0x7f0800af
-			public const int notification_main_column = 2131230895;
+			// aapt resource value: 0x7f0800ca
+			public const int notification_main_column = 2131230922;
 			
-			// aapt resource value: 0x7f0800ae
-			public const int notification_main_column_container = 2131230894;
+			// aapt resource value: 0x7f0800c9
+			public const int notification_main_column_container = 2131230921;
 			
 			// aapt resource value: 0x7f08004c
 			public const int parallax = 2131230796;
@@ -2713,6 +2749,15 @@ namespace Percovich
 			
 			// aapt resource value: 0x7f08000b
 			public const int parent_matrix = 2131230731;
+			
+			// aapt resource value: 0x7f0800a3
+			public const int passwordConfirm_layout = 2131230883;
+			
+			// aapt resource value: 0x7f08008f
+			public const int password_layout = 2131230863;
+			
+			// aapt resource value: 0x7f080093
+			public const int pgrLogin = 2131230867;
 			
 			// aapt resource value: 0x7f08004d
 			public const int pin = 2131230797;
@@ -2729,11 +2774,11 @@ namespace Percovich
 			// aapt resource value: 0x7f08004a
 			public const int right = 2131230794;
 			
-			// aapt resource value: 0x7f0800b4
-			public const int right_icon = 2131230900;
+			// aapt resource value: 0x7f0800cf
+			public const int right_icon = 2131230927;
 			
-			// aapt resource value: 0x7f0800b0
-			public const int right_side = 2131230896;
+			// aapt resource value: 0x7f0800cb
+			public const int right_side = 2131230923;
 			
 			// aapt resource value: 0x7f08000c
 			public const int save_image_matrix = 2131230732;
@@ -2758,6 +2803,9 @@ namespace Percovich
 			
 			// aapt resource value: 0x7f080068
 			public const int scrollView = 2131230824;
+			
+			// aapt resource value: 0x7f080097
+			public const int scrollView1 = 2131230871;
 			
 			// aapt resource value: 0x7f080055
 			public const int scrollable = 2131230805;
@@ -2792,6 +2840,9 @@ namespace Percovich
 			// aapt resource value: 0x7f080089
 			public const int search_voice_btn = 2131230857;
 			
+			// aapt resource value: 0x7f08009f
+			public const int secondSurname_layout = 2131230879;
+			
 			// aapt resource value: 0x7f08008a
 			public const int select_dialog_listview = 2131230858;
 			
@@ -2807,14 +2858,14 @@ namespace Percovich
 			// aapt resource value: 0x7f080025
 			public const int showTitle = 2131230757;
 			
-			// aapt resource value: 0x7f08008f
-			public const int smallLabel = 2131230863;
+			// aapt resource value: 0x7f0800a8
+			public const int smallLabel = 2131230888;
 			
-			// aapt resource value: 0x7f080096
-			public const int snackbar_action = 2131230870;
+			// aapt resource value: 0x7f0800af
+			public const int snackbar_action = 2131230895;
 			
-			// aapt resource value: 0x7f080095
-			public const int snackbar_text = 2131230869;
+			// aapt resource value: 0x7f0800ae
+			public const int snackbar_text = 2131230894;
 			
 			// aapt resource value: 0x7f080043
 			public const int snap = 2131230787;
@@ -2837,8 +2888,8 @@ namespace Percovich
 			// aapt resource value: 0x7f08004b
 			public const int start = 2131230795;
 			
-			// aapt resource value: 0x7f0800ab
-			public const int status_bar_latest_event_content = 2131230891;
+			// aapt resource value: 0x7f0800c6
+			public const int status_bar_latest_event_content = 2131230918;
 			
 			// aapt resource value: 0x7f080076
 			public const int submenuarrow = 2131230838;
@@ -2864,20 +2915,23 @@ namespace Percovich
 			// aapt resource value: 0x7f080069
 			public const int textSpacerNoTitle = 2131230825;
 			
-			// aapt resource value: 0x7f0800a5
-			public const int textView = 2131230885;
+			// aapt resource value: 0x7f0800c0
+			public const int textView = 2131230912;
 			
-			// aapt resource value: 0x7f08009e
-			public const int textView1 = 2131230878;
+			// aapt resource value: 0x7f08008c
+			public const int textView1 = 2131230860;
 			
-			// aapt resource value: 0x7f08009f
-			public const int textView2 = 2131230879;
+			// aapt resource value: 0x7f0800ba
+			public const int textView2 = 2131230906;
 			
-			// aapt resource value: 0x7f0800a1
-			public const int textView3 = 2131230881;
+			// aapt resource value: 0x7f0800bc
+			public const int textView3 = 2131230908;
 			
-			// aapt resource value: 0x7f08009c
-			public const int text_input_password_toggle = 2131230876;
+			// aapt resource value: 0x7f080098
+			public const int textViewRegister = 2131230872;
+			
+			// aapt resource value: 0x7f0800b5
+			public const int text_input_password_toggle = 2131230901;
 			
 			// aapt resource value: 0x7f080014
 			public const int textinput_counter = 2131230740;
@@ -2885,8 +2939,8 @@ namespace Percovich
 			// aapt resource value: 0x7f080015
 			public const int textinput_error = 2131230741;
 			
-			// aapt resource value: 0x7f0800b1
-			public const int time = 2131230897;
+			// aapt resource value: 0x7f0800cc
+			public const int time = 2131230924;
 			
 			// aapt resource value: 0x7f08001c
 			public const int title = 2131230748;
@@ -2897,8 +2951,8 @@ namespace Percovich
 			// aapt resource value: 0x7f08006f
 			public const int title_template = 2131230831;
 			
-			// aapt resource value: 0x7f08008d
-			public const int toolbar = 2131230861;
+			// aapt resource value: 0x7f0800a6
+			public const int toolbar = 2131230886;
 			
 			// aapt resource value: 0x7f08003e
 			public const int top = 2131230782;
@@ -2906,8 +2960,8 @@ namespace Percovich
 			// aapt resource value: 0x7f08006e
 			public const int topPanel = 2131230830;
 			
-			// aapt resource value: 0x7f080093
-			public const int touch_outside = 2131230867;
+			// aapt resource value: 0x7f0800ac
+			public const int touch_outside = 2131230892;
 			
 			// aapt resource value: 0x7f08000f
 			public const int transition_current_scene = 2131230735;
@@ -2924,6 +2978,30 @@ namespace Percovich
 			// aapt resource value: 0x7f080013
 			public const int transition_transform = 2131230739;
 			
+			// aapt resource value: 0x7f0800a2
+			public const int txtDNI = 2131230882;
+			
+			// aapt resource value: 0x7f08008e
+			public const int txtEmail = 2131230862;
+			
+			// aapt resource value: 0x7f08009e
+			public const int txtFirstSurname = 2131230878;
+			
+			// aapt resource value: 0x7f08009c
+			public const int txtName = 2131230876;
+			
+			// aapt resource value: 0x7f080090
+			public const int txtPassword = 2131230864;
+			
+			// aapt resource value: 0x7f0800a4
+			public const int txtPasswordConfirm = 2131230884;
+			
+			// aapt resource value: 0x7f0800a0
+			public const int txtSecondSurname = 2131230880;
+			
+			// aapt resource value: 0x7f08009a
+			public const int txtUserName = 2131230874;
+			
 			// aapt resource value: 0x7f08002d
 			public const int uniform = 2131230765;
 			
@@ -2933,11 +3011,14 @@ namespace Percovich
 			// aapt resource value: 0x7f080026
 			public const int useLogo = 2131230758;
 			
+			// aapt resource value: 0x7f080099
+			public const int username_layout = 2131230873;
+			
 			// aapt resource value: 0x7f080016
 			public const int view_offset_helper = 2131230742;
 			
-			// aapt resource value: 0x7f0800ba
-			public const int visible = 2131230906;
+			// aapt resource value: 0x7f0800d5
+			public const int visible = 2131230933;
 			
 			// aapt resource value: 0x7f08003c
 			public const int withText = 2131230780;
@@ -3137,70 +3218,73 @@ namespace Percovich
 			public const int design_text_input_password_icon = 2130968620;
 			
 			// aapt resource value: 0x7f04002d
-			public const int login_activy = 2130968621;
+			public const int FragmentCitas = 2130968621;
 			
 			// aapt resource value: 0x7f04002e
-			public const int nav_header_main = 2130968622;
+			public const int login_activy = 2130968622;
 			
 			// aapt resource value: 0x7f04002f
-			public const int notification_action = 2130968623;
+			public const int nav_header_main = 2130968623;
 			
 			// aapt resource value: 0x7f040030
-			public const int notification_action_tombstone = 2130968624;
+			public const int notification_action = 2130968624;
 			
 			// aapt resource value: 0x7f040031
-			public const int notification_media_action = 2130968625;
+			public const int notification_action_tombstone = 2130968625;
 			
 			// aapt resource value: 0x7f040032
-			public const int notification_media_cancel_action = 2130968626;
+			public const int notification_media_action = 2130968626;
 			
 			// aapt resource value: 0x7f040033
-			public const int notification_template_big_media = 2130968627;
+			public const int notification_media_cancel_action = 2130968627;
 			
 			// aapt resource value: 0x7f040034
-			public const int notification_template_big_media_custom = 2130968628;
+			public const int notification_template_big_media = 2130968628;
 			
 			// aapt resource value: 0x7f040035
-			public const int notification_template_big_media_narrow = 2130968629;
+			public const int notification_template_big_media_custom = 2130968629;
 			
 			// aapt resource value: 0x7f040036
-			public const int notification_template_big_media_narrow_custom = 2130968630;
+			public const int notification_template_big_media_narrow = 2130968630;
 			
 			// aapt resource value: 0x7f040037
-			public const int notification_template_custom_big = 2130968631;
+			public const int notification_template_big_media_narrow_custom = 2130968631;
 			
 			// aapt resource value: 0x7f040038
-			public const int notification_template_icon_group = 2130968632;
+			public const int notification_template_custom_big = 2130968632;
 			
 			// aapt resource value: 0x7f040039
-			public const int notification_template_lines_media = 2130968633;
+			public const int notification_template_icon_group = 2130968633;
 			
 			// aapt resource value: 0x7f04003a
-			public const int notification_template_media = 2130968634;
+			public const int notification_template_lines_media = 2130968634;
 			
 			// aapt resource value: 0x7f04003b
-			public const int notification_template_media_custom = 2130968635;
+			public const int notification_template_media = 2130968635;
 			
 			// aapt resource value: 0x7f04003c
-			public const int notification_template_part_chronometer = 2130968636;
+			public const int notification_template_media_custom = 2130968636;
 			
 			// aapt resource value: 0x7f04003d
-			public const int notification_template_part_time = 2130968637;
+			public const int notification_template_part_chronometer = 2130968637;
 			
 			// aapt resource value: 0x7f04003e
-			public const int select_dialog_item_material = 2130968638;
+			public const int notification_template_part_time = 2130968638;
 			
 			// aapt resource value: 0x7f04003f
-			public const int select_dialog_multichoice_material = 2130968639;
+			public const int select_dialog_item_material = 2130968639;
 			
 			// aapt resource value: 0x7f040040
-			public const int select_dialog_singlechoice_material = 2130968640;
+			public const int select_dialog_multichoice_material = 2130968640;
 			
 			// aapt resource value: 0x7f040041
-			public const int support_simple_spinner_dropdown_item = 2130968641;
+			public const int select_dialog_singlechoice_material = 2130968641;
 			
 			// aapt resource value: 0x7f040042
-			public const int tooltip = 2130968642;
+			public const int support_simple_spinner_dropdown_item = 2130968642;
+			
+			// aapt resource value: 0x7f040043
+			public const int tooltip = 2130968643;
 			
 			static Layout()
 			{
@@ -3357,6 +3441,9 @@ namespace Percovich
 			
 			// aapt resource value: 0x7f090020
 			public const int character_counter_pattern = 2131296288;
+			
+			// aapt resource value: 0x7f09002b
+			public const int from_password = 2131296299;
 			
 			// aapt resource value: 0x7f090029
 			public const int navigation_drawer_close = 2131296297;
@@ -3634,6 +3721,9 @@ namespace Percovich
 			
 			// aapt resource value: 0x7f0a0002
 			public const int Base_Theme_AppCompat_Light_DialogWhenLarge = 2131361794;
+			
+			// aapt resource value: 0x7f0a0186
+			public const int Base_Theme_DesignDemo = 2131362182;
 			
 			// aapt resource value: 0x7f0a00a9
 			public const int Base_ThemeOverlay_AppCompat = 2131361961;
@@ -4286,6 +4376,18 @@ namespace Percovich
 			// aapt resource value: 0x7f0a016e
 			public const int Theme_Design_NoActionBar = 2131362158;
 			
+			// aapt resource value: 0x7f0a0184
+			public const int Theme_DesignDemo = 2131362180;
+			
+			// aapt resource value: 0x7f0a0188
+			public const int Theme_DesignDemo_AppBarOverlay = 2131362184;
+			
+			// aapt resource value: 0x7f0a0189
+			public const int Theme_DesignDemo_PopupOverlay = 2131362185;
+			
+			// aapt resource value: 0x7f0a0185
+			public const int Theme_DesignDemo2 = 2131362181;
+			
 			// aapt resource value: 0x7f0a0107
 			public const int ThemeOverlay_AppCompat = 2131362055;
 			
@@ -4522,6 +4624,9 @@ namespace Percovich
 			
 			// aapt resource value: 0x7f0a0155
 			public const int Widget_AppCompat_Toolbar_Button_Navigation = 2131362133;
+			
+			// aapt resource value: 0x7f0a0187
+			public const int Widget_CardContent = 2131362183;
 			
 			// aapt resource value: 0x7f0a017d
 			public const int Widget_Compat_NotificationActionContainer = 2131362173;

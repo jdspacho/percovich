@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
     android:orientation="vertical"
-    android:layout_height="wrap_parent"
     android:layout_width="match_parent"
+    android:layout_height="wrap_content"
     android:isScrollContainer="true"
     android:id="@+id/layaut_register"
     android:background="#0B4761"
@@ -41,7 +41,6 @@
                 android:id="@+id/username_layout"
                 android:layout_height="wrap_content">
                 <android.support.design.widget.TextInputEditText
-                    android:hint="@string/form_username"
                     android:inputType="text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -57,7 +56,6 @@
                 android:id="@+id/name_layout"
                 android:layout_height="wrap_content">
                 <android.support.design.widget.TextInputEditText
-                    android:hint="@string/form_name"
                     android:inputType="text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -73,7 +71,6 @@
                 android:id="@+id/firstSurname_layout"
                 android:layout_height="wrap_content">
                 <android.support.design.widget.TextInputEditText
-                    android:hint="@string/form_firstSurname"
                     android:inputType="text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -89,7 +86,6 @@
                 android:id="@+id/secondSurname_layout"
                 android:layout_height="wrap_content">
                 <android.support.design.widget.TextInputEditText
-                    android:hint="@string/form_secondSurname"
                     android:inputType="text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -105,7 +101,6 @@
                 android:id="@+id/dni_layout"
                 android:layout_height="wrap_content">
                 <android.support.design.widget.TextInputEditText
-                    android:hint="@string/form_dni"
                     android:inputType="text"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -121,7 +116,6 @@
                 android:id="@+id/email_layout"
                 android:layout_height="wrap_content">
                 <android.support.design.widget.TextInputEditText
-                    android:hint="@string/form_email"
                     android:inputType="textEmailAddress"
                     android:layout_width="match_parent"
                     android:layout_height="wrap_content"
@@ -139,7 +133,6 @@
                 <android.support.design.widget.TextInputEditText
                     android:inputType="textPassword"
                     android:layout_width="match_parent"
-                    android:hint="@string/form_password"
                     android:layout_height="wrap_content"
                     android:textColor="#fff"
                     android:layout_marginTop="20sp"
@@ -156,7 +149,6 @@
                 <android.support.design.widget.TextInputEditText
                     android:inputType="textPassword"
                     android:layout_width="match_parent"
-                    android:hint="@string/form_passwordConfirm"
                     android:layout_height="wrap_content"
                     android:textColor="#fff"
                     android:layout_marginTop="20sp"

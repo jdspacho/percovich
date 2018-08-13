@@ -11,9 +11,9 @@ using Android.Util;
 using Android.Views;
 using Android.Widget;
 
-namespace Percovich.Fragment
+namespace Percovich.Fragments
 {
-    public class Fragment_products : Fragment
+    public class LoginFragment : Fragment
     {
         public override void OnCreate(Bundle savedInstanceState)
         {
