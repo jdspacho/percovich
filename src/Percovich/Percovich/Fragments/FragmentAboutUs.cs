@@ -11,9 +11,10 @@ using Android.Util;
 using Android.Views;
 using Android.Widget;
 
+
 namespace Percovich.Fragments
 {
-    public class RegisterFragment : Fragment
+    public class FragmentAboutUs : Fragment
     {
         public override void OnCreate(Bundle savedInstanceState)
         {
@@ -25,9 +26,10 @@ namespace Percovich.Fragments
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
             // Use this to return your custom view for this Fragment
-            // return inflater.Inflate(Resource.Layout.YourFragment, container, false);
+            View v = inflater.Inflate(Resource.Layout.fragment_aboutus, container, false);
+            return v;
 
-            return base.OnCreateView(inflater, container, savedInstanceState);
+            //return base.OnCreateView(inflater, container, savedInstanceState);
         }
     }
 }

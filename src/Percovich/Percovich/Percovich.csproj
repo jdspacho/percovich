@@ -57,8 +57,8 @@
   <ItemGroup>
     <Compile Include="Activities\LoginActivity.cs" />
     <Compile Include="Activities\RegisterActivity.cs" />
-    <Compile Include="Fragments\LoginFragment.cs" />
-    <Compile Include="Fragments\RegisterFragment.cs" />
+    <Compile Include="Fragments\FragmentAboutUs.cs" />
+    <Compile Include="Fragments\FragmentProducts.cs" />
     <Compile Include="MainActivity.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
@@ -135,6 +135,16 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\FragmentCitas.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\fragment_aboutus.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\fragment_products.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>

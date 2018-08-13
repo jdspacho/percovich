@@ -13,7 +13,7 @@ using Android.Widget;
 
 namespace Percovich.Fragments
 {
-    public class LoginFragment : Fragment
+    public class FragmentProducts : Fragment
     {
         public override void OnCreate(Bundle savedInstanceState)
         {
@@ -25,9 +25,10 @@ namespace Percovich.Fragments
         public override View OnCreateView(LayoutInflater inflater, ViewGroup container, Bundle savedInstanceState)
         {
             // Use this to return your custom view for this Fragment
-            // return inflater.Inflate(Resource.Layout.YourFragment, container, false);
+            View v = inflater.Inflate(Resource.Layout.fragment_products, container, false);
+            return v;
 
-            return base.OnCreateView(inflater, container, savedInstanceState);
+            //return base.OnCreateView(inflater, container, savedInstanceState);
         }
     }
 }
