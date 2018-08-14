@@ -7,7 +7,7 @@ using Android.Support.V4.View;
 using Android.Support.V4.Widget;
 using Android.Support.V7.App;
 using Android.Views;
-using Android.Widget;
+
 using Percovich.Fragments;
 
 namespace Percovich
@@ -89,7 +89,7 @@ namespace Percovich
             }
             else if (id == Resource.Id.nav_manage)
             {
-
+                changeFrame("Citas");
             }
             else if (id == Resource.Id.nav_share)
             {
@@ -116,6 +116,10 @@ namespace Percovich
             else if (_type.Equals("products"))
             {
                 fragment = new FragmentProducts();
+            }
+            else if (_type.Equals("Citas"))
+            {
+                fragment = new FragmentCitas();
             }
             else
             {
