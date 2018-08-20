@@ -60,7 +60,10 @@
     <Compile Include="Fragments\FragmentAboutUs.cs" />
     <Compile Include="Fragments\FragmentCitas.cs" />
     <Compile Include="Fragments\FragmentProducts.cs" />
+    <Compile Include="Fragments\FragmentTratamientos.cs" />
     <Compile Include="MainActivity.cs" />
+    <Compile Include="Models\tratamiento.cs" />
+    <Compile Include="Models\User.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />
   </ItemGroup>
@@ -146,6 +149,16 @@
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\fragment_products.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\adapter_tratamiento_item.axml">
+      <SubType>Designer</SubType>
+    </AndroidResource>
+  </ItemGroup>
+  <ItemGroup>
+    <AndroidResource Include="Resources\layout\adapter_user_item.axml">
       <SubType>Designer</SubType>
     </AndroidResource>
   </ItemGroup>
