@@ -57,12 +57,14 @@
   <ItemGroup>
     <Compile Include="Activities\LoginActivity.cs" />
     <Compile Include="Activities\RegisterActivity.cs" />
+    <Compile Include="Adapters\TratamientoAdapter.cs" />
+    <Compile Include="Adapters\UserAdapter.cs" />
     <Compile Include="Fragments\FragmentAboutUs.cs" />
     <Compile Include="Fragments\FragmentCitas.cs" />
     <Compile Include="Fragments\FragmentProducts.cs" />
     <Compile Include="Fragments\FragmentTratamientos.cs" />
     <Compile Include="MainActivity.cs" />
-    <Compile Include="Models\tratamiento.cs" />
+    <Compile Include="Models\Tratamiento.cs" />
     <Compile Include="Models\User.cs" />
     <Compile Include="Resources\Resource.Designer.cs" />
     <Compile Include="Properties\AssemblyInfo.cs" />

@@ -13,27 +13,27 @@ using RestSharp;
 
 namespace Percovich.Models
 {
-    class tratamiento
+    public class Tratamiento
     {
         public int id { get; set; }
         public string name { get; set; }
         public string description { get; set; }
         public string color { get; set; }
-        public static List<tratamiento> local()
+        public static List<Tratamiento> local()
         {
-            return new List<tratamiento>() {
-                new tratamiento(){name = "Uno" },
-                new tratamiento(){name = "Dos" },
-                new tratamiento(){name = "Tres" },
-                new tratamiento(){name = "Cuatro" },
-                new tratamiento(){name = "Cinco" },
-                new tratamiento(){name = "Seis" },
-                new tratamiento(){name = "Siete" },
-                new tratamiento(){name = "Ocho" },
+            return new List<Tratamiento>() {
+                new Tratamiento(){name = "Uno" },
+                new Tratamiento(){name = "Dos" },
+                new Tratamiento(){name = "Tres" },
+                new Tratamiento(){name = "Cuatro" },
+                new Tratamiento(){name = "Cinco" },
+                new Tratamiento(){name = "Seis" },
+                new Tratamiento(){name = "Siete" },
+                new Tratamiento(){name = "Ocho" },
             };
         }
 
-        public static List<tratamiento> sync()
+        public static List<Tratamiento> sync()
         {
             var client = new RestClient();
             client.BaseUrl = new Uri("https://reqres.in/");
@@ -46,20 +46,19 @@ namespace Percovich.Models
             if (response.StatusCode == System.Net.HttpStatusCode.OK)
             {
                 RestSharp.Deserializers.JsonDeserializer deserial = new RestSharp.Deserializers.JsonDeserializer();
-                ProductRest rootObject = deserial.Deserialize<ProductRest>(response);
+                TratamientoRest rootObject = deserial.Deserialize<TratamientoRest>(response);
                 return rootObject.data;
             }
             else
             {
-                ProductRest rootObject = new ProductRest();
+                TratamientoRest rootObject = new TratamientoRest();
                 return rootObject.data;
             }
         }
     }
-    public class ProductRest
+    public class TratamientoRest
     {
-        public List<tratamiento> data { get; set; }
+        public List<Tratamiento> data { get; set; }
     }
 }
-    }
-}
+   
